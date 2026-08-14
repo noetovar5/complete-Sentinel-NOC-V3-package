@@ -931,3 +931,13 @@ The next version I would build after you get this running is **Sentinel V3.1 Ser
 [1]: https://ubuntu.com/server/docs/how-to/web-services/install-php/?utm_source=chatgpt.com "How to install and configure PHP"
 [2]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-sqlite-on-ubuntu-20-04?utm_source=chatgpt.com "How To Install and Use SQLite on Ubuntu"
 [3]: https://packages.ubuntu.com/da/questing/php-sqlite3?utm_source=chatgpt.com "Details of package php-sqlite3 in questing"
+
+
+
+
+
+
+
+Chat link below
+https://chatgpt.com/s/t_6a7e958633348191a05e1370c9143692
+
